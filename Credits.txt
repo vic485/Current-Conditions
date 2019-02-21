@@ -1,7 +1,4 @@
 Assets used in this project:
 
-WUnderground .Net Library by dknoodle
-https://github.com/dknoodle/WUnderground.Net
-
 Newtonsoft.Json (Json.Net) Library
 https://github.com/JamesNK/Newtonsoft.Json
