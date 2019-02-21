@@ -4,3 +4,5 @@
 - Art for panels
 - Clean up weather client calls
 - Redo system manager
+
+- Save weather so re-opening the app multiple times doesn't spam api?
