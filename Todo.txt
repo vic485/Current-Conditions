@@ -1,8 +1,0 @@
-- Pretty up settings menu
-- Finish setup of weather panel
-- Other panels?
-- Art for panels
-- Clean up weather client calls
-- Redo system manager
-
-- Save weather so re-opening the app multiple times doesn't spam api?
