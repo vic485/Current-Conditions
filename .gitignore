@@ -36,5 +36,4 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-Assets/TestAudio*
 Assets/StreamingAssets*
